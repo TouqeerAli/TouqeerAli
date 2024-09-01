@@ -1,16 +1,25 @@
-## Hi there 👋
+##                                                                         Hi there 👋, i am Touqeer Ali
 
-<!--
-**TouqeerAli/TouqeerAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+I'm a **Computer Science student** with a deep passion for coding. My journey in software development is driven by curiosity and a constant desire to explore and master new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building and refining my skills through personal projects.
+- 🌱 Constantly learning and evolving, with a particular interest in both backend and frontend development.
+- 💼 Actively looking for opportunities to apply my skills and contribute to exciting projects.
+- 🎯 My goal is to become a proficient full-stack developer with a strong foundation in modern technologies.
+
+## Tech Stack
+Here are some of the technologies and tools I've been working with:
+
+- **Languages:** Java, C++, HTML, CSS, JavaScript
+- **Frameworks & Libraries:** Spring Boot, React, Redux
+- **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, VS Code, Docker
+- **Database Management:** MySQL, PostgreSQL, MongoDB
+
+## Let's Connect
+
+- **LinkedIn:** [iamtouqeerali](https://www.linkedin.com/in/iamtouqeerali/)
+- **Email:** [engr.touqeerali@gmail.com](mailto:engr.touqeerali@gmail.com)
+- **GitHub:** [TouqeerAli](https://github.com/TouqeerAli/)
+
