@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a **Computer Systems Engineering student** with a deep passion for coding. My journey in software development is driven by curiosity and a constant desire to explore and master new technologies.
+I'm a **Computer Systems Engineering graduate** with a deep passion for coding. My journey in software development is driven by curiosity and a constant desire to explore and master new technologies.
 
 - 🔭 I’m currently working on building and refining my skills through personal projects.
 - 🌱 Constantly learning and evolving, with a particular interest in both backend and frontend development.
